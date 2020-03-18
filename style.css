@@ -1,6 +1,21 @@
 body{
-  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(image/Background2.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(image/Background3.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  width: 90%;
+  height: 20px solid #fff;
+  font-family: source sans Pro, sans-serif;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 90%;
+}
+.blog{
+  margin-bottom: 20px;
+}
+.date{
+  color: #fff;
+  letter-spacing: 0.2rem;
+  text-transform: uppercase;
+  font-weight: 600;
 }
