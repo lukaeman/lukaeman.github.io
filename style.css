@@ -30,3 +30,9 @@ img{
 .heading{
   color: #fff;
 }
+.forum{
+  max-height: 120px;
+}
+.verified{
+  max-height: 80px;
+}
