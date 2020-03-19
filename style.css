@@ -24,6 +24,11 @@ img{
   max-height: 300px;
   padding-left: 10px;
 }
+figure{
+  float: right;
+  max-height: 300px;
+  padding-left: 10px;
+}
 .maintext{
   color: #aaaaad;
 }
